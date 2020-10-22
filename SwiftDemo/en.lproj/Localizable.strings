@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  SwiftDemo
+
+  Created by lyons on 2019/3/13.
+  Copyright © 2019 lyons. All rights reserved.
+*/
+
+
+"语言" = "Languages";
+"返回" = "backs";
+"系统语言" = "System languages";
+"首页" = "Home";
+"我的" = "Mine";
+"高斯模糊" = "GaussianBlurs";
+"动态导航" = "GradualNavis";
+"通知" = "Notification";
+"本地通知" = "Local Notification";
+"协议" = "Protocol";
+"浏览器" = "Web View";

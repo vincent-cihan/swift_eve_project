@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.3.0)
+  - HandyJSON (5.0.2)
+  - Kingfisher (5.15.6):
+    - Kingfisher/Core (= 5.15.6)
+  - Kingfisher/Core (5.15.6)
+  - MJRefresh (3.5.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - HandyJSON
+  - Kingfisher
+  - MJRefresh
+  - Moya
+  - SnapKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - SnapKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: b3554e7bf6106115b44e8795300bad580ef2fdc7
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: f248b956302e392ca228e25e93be9d98bc8d34d8
+
+COCOAPODS: 1.8.4
